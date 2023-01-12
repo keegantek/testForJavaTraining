@@ -1,6 +1,6 @@
 Bus Schedule
 Inbound
-10:00 AM
+10:05 AM -- running late
 10:30 AM
 11:00 AM
 11:30 AM
