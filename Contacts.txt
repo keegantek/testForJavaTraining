@@ -1,7 +1,0 @@
-Contacts
-- Bill Smith (401) 123-4567
-- John Smith (401) 123-4568
-- Phil Williams (401) 122-4567
-- Sarah Williams (401) 123-4867
-- Rebecca Adams (401) 134-4567
-- Robert Adams (401) 123-4447
